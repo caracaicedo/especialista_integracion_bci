@@ -28,7 +28,9 @@ H2 en memoria para la base de datos
 Instalación
 1.Clonar el repositorio:
 
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/caracaicedo/especialista_integracion_bci.git
+
+la aplicación prueba
 
 2.Compilar y construir la aplicación:
 mvn clean install
