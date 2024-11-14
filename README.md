@@ -42,6 +42,11 @@ mvn spring-boot:run
 La aplicación se ejecutará en http://localhost:8080.
 
 
+url swagger : http://localhost:8080/swagger-ui/index.html#
+
+en el repositorio se encuentra una collection  de postman llamada  prueba.postman_collection  con las cual se pueden probar los servicios
+
+
 
 para consumir el servicio de crear usuario se debe crear un token  consuminedo el siguiente servicios 
 
@@ -78,7 +83,7 @@ Formato de Entrada:
 {
     "name": "Juan Rodriguez",
     "email": "juan@rodriguez.org",
-    "password": "hunter2",
+    "password": "Abc123$xyz",
     "phones": [
         {
             "number": "1234567",
